@@ -39,7 +39,7 @@
     "test:jest": "jest"
   },
   "dependencies": {
-    "@apollo/client": "^3.5.10",
+    "@apollo/client": "^3.12.6",
     "@next/bundle-analyzer": "^12.1.5",
     "algoliasearch": "^4.13.1",
     "apollo-link-rest": "^0.8.0",
